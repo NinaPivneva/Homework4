@@ -153,3 +153,5 @@
 // int[] arrayOfNumbers =  ArrayOfNumbers(seriesNew);
 
 // PrintArry(arrayOfNumbers);
+
+
